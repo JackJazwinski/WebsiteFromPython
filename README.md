@@ -63,10 +63,6 @@ Feel free to split templates and static files into folders once you outgrow the 
 
 Pull requests and issues are welcome! If you find a typo or have an idea for a fourth mini‑app, open an issue first so we can discuss.
 
-## 📄 License
-
-[MIT](LICENSE)
-
 ---
 
 *Originally built as a mid‑term assignment; published so the next learner can hit the ground running.*
